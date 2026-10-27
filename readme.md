@@ -1045,6 +1045,12 @@ Skills for marketing professionals, content creators, and growth teams.
   - Reference layer covers benchmarks, GDPR/CAN-SPAM/CASL compliance, cold email, SMS and WhatsApp, and 19 industry playbooks
   - Install: `npx skills add CosmoBlk/email-marketing-bible`
 
+- [azeemkafridi/bulkpublish-ai-toolkit](https://github.com/azeemkafridi/bulkpublish-ai-toolkit) ![Stars](https://img.shields.io/github/stars/azeemkafridi/bulkpublish-ai-toolkit?style=flat-square)
+  - Agent skills and MCP server setup for scheduling, publishing, and analyzing social media posts with BulkPublish
+  - Covers 15 social platforms, plus channels, media, and post analytics
+  - Connects to the hosted MCP server at `https://mcp.bulkpublish.com` (OAuth sign-in)
+  - MIT licensed; works with Claude Code, Cursor, Codex, and Gemini CLI
+
 ---
 
 ## Domain-Specific Skills
